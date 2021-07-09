@@ -8,7 +8,7 @@ download.file(fileUrl,destfile="./data/Dataset.zip")
 unzip(zipfile="./data/Dataset.zip",exdir="./data")
 
 # this was my working directory i used in my PC
-3filename<-"D://Self-made//Data science//JOHNS HOPKINS UNIVERSITY getdata_projectfiles_UCI HAR Dataset.zip"
+#filename<-"D://Self-made//Data science//JOHNS HOPKINS UNIVERSITY getdata_projectfiles_UCI HAR Dataset.zip"
 #if (!file.exists("UCI HAR Dataset")) { 
 #  unzip(filename) 
 #}
